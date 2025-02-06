@@ -111,10 +111,6 @@ python squid_game.py
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by the Netflix series "Squid Game"
@@ -125,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Noroz Baloch - [nbb15453@gmail.com](mailto:nbb16564@gmail.com)
 
-Project Link: [https://github.com/Norozahmed/squid_game_in_python](https://github.com/Norozahmed/Squid_game_in_python)
+Project Link: [https://github.com/Norozahmed/Squid_Game_in_python]([https://github.com/Norozahmed/Squid_game_in_python](https://github.com/Norozahmed/Squid_Game_in_Python))
 
 ---
 Made with ❤️ by [Noroz Ahmed]
