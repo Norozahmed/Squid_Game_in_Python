@@ -54,7 +54,8 @@ A text-based implementation of Squid Game in Python, featuring multiple mini-gam
 1. Clone the repository:
 
 bash
-git clone [https://github.com/yourusername/squid-game.git](https://github.com/Norozahmed/Squid_Game_in_Python)
+git clone [https://github.com/Norozahmed/Squid_Game_in_Python](https://github.com/Norozahmed/Squid_Game_in_Python)
+
 cd squid-game
 
 
@@ -121,7 +122,7 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 
 Noroz Baloch - [nbb15453@gmail.com](mailto:nbb16564@gmail.com)
 
-Project Link: [https://github.com/Norozahmed/Squid_Game_in_python]([https://github.com/Norozahmed/Squid_game_in_python](https://github.com/Norozahmed/Squid_Game_in_Python))
+Project Link: [https://github.com/Norozahmed/Squid_Game_in_Python]([https://github.com/Norozahmed/Squid_game_in_python](https://github.com/Norozahmed/Squid_Game_in_Python))
 
 ---
 Made with ❤️ by [Noroz Ahmed]
