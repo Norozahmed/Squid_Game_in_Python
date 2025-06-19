@@ -125,4 +125,4 @@ Noroz Baloch - [nbb16564@gmail.com](mailto:nbb16564@gmail.com)
 Project Link: [https://github.com/Norozahmed/Squid_Game_in_Python]([https://github.com/Norozahmed/Squid_game_in_python](https://github.com/Norozahmed/Squid_Game_in_Python))
 
 ---
-Made with ❤️ by [Noroz Ahmed]
+Made with ❤️ by Noroz Ahmed
